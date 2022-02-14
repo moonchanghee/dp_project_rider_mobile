@@ -18,3 +18,5 @@
 </br>
 <img src ="https://user-images.githubusercontent.com/56143212/106869138-e7258480-6712-11eb-8ea7-48c08aa7e249.PNG" width ="500px" height = "400px"></img>
 + 시스템 종료 및 일일 정산 내역 확인
+
+notion : https://www.notion.so/8d1041f57cb447d2b0d81ffa4d1402ee
